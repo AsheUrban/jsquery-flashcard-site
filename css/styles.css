@@ -1,5 +1,10 @@
-.walrus-showing {
-  display: none;
+body {
+
+}
+
+h1 {
+
+
 }
 
 .clickable {
@@ -11,3 +16,21 @@
   text-decoration: underline;
 }
 
+#hidedefinition1 {
+  display: none;
+}
+
+#definition1 {
+  /* display: none; */
+}
+
+
+/* from derrak's project
+.clickable {
+  cursor: pointer;
+  color: darkslateblue;
+}
+
+.definition1 {
+  display: none;
+} */
